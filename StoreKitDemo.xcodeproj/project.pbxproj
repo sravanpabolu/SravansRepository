@@ -156,6 +156,7 @@
 		A0CA130A1B889F1000FBD8CD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = Sravan;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				A0CA13331B889F1000FBD8CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0CA13341B889F1000FBD8CD /* Build configuration list for PBXNativeTarget "StoreKitDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				A0CA13361B889F1000FBD8CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
