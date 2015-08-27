@@ -32,6 +32,7 @@ class ViewController: UIViewController, SKStoreProductViewControllerDelegate {
     
     })
 
+    
     */
     
     override func viewDidLoad() {
@@ -45,6 +46,7 @@ class ViewController: UIViewController, SKStoreProductViewControllerDelegate {
     }
 
     @IBAction func updateAppBtnTapped(sender: AnyObject) {
+        //mention correct app identifier here 
         let parameters = [SKStoreProductParameterITunesItemIdentifier: String("333700869")]
         let spvc = SKStoreProductViewController() ;
         spvc.delegate = self
